@@ -1,0 +1,16 @@
+väri-color
+valkoinen-white
+musta-black
+punainen-red
+sininen-blue
+keltainen-yellow
+kultainen-golden 
+hopeinen-silvery
+oranssi-orange
+sinipunainen-purple
+violetti-violet
+vihreä-green
+harmaa-grey
+ruskea-brown
+pinkki-pink
+sinivalkoinen-blue and white

@@ -1,0 +1,11 @@
+pyörä-bike
+lippu-flag
+tanko-stick
+lipputanko-flagpole
+ja-and
+mennä-go
+kaatua-fall
+kulta-gold
+hopea-silver
+kirja-book
+lohikäärme-dragon

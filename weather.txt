@@ -1,0 +1,7 @@
+sataa-rain
+sataa vetta-rain water
+sataa lunta-rain snow
+sataa rakeita-rain hail
+aurinko-sun
+aurinko paistaa-sun shines
+

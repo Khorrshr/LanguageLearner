@@ -1,0 +1,5 @@
+minä-i
+sinä-you
+hän-he
+me-we
+he-they

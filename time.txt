@@ -1,0 +1,8 @@
+aamu-morning
+päivä-day
+ilta-evening
+yö-night
+tänään-today
+huomenna-tommorow
+eilen-yesterday
+nyt-now

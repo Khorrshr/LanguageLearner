@@ -1,0 +1,30 @@
+kerrostalo-apartment house
+rivitalo-row house
+omakotitalo-town house
+vuokra-rent
+ulos-out
+katto-roof
+piippu-pipe
+savupiippu-smokestack
+ullakko-attic
+parveke-balcony
+seinä-wall
+ikkuna-window
+ovi-door
+ulko ovi-door outside
+portaat-stairs
+kellari-cellar
+penkki-bench
+keinut-swings
+hiekkalaatikko-sandbox
+nurmikko-lawn
+niitty-meadow
+vessa-toilet
+keittiö-kitchen
+olohuone-living room
+eteinen-vestibule
+makuuhuone-bedroom
+huone-room
+koti-home
+talo-house
+piha-yard

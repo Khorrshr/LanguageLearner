@@ -1,0 +1,12 @@
+tammikuu-january
+helmikuu-february
+maaliskuu-march
+huhtikuu-april
+toukokuu-may
+kesäkuu-june
+heinäkuu-july
+elokuu-august
+syyskuu-september
+lokakuu-october
+marraskuu-november
+joulukuu-december
